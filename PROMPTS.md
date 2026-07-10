@@ -1,0 +1,3 @@
+Give me a relevant section for dev conference website.
+
+Write a basic HTML layout for a tech conference sponsor and footer section. Keep the classes simple like .sponsors-section, .sponsors-logos, and .footer. Inside sponsors, add Google, Microsoft, AWS, and GitHub names. For the footer, put a logo on the left and social links (twitter, linkedin, github, youtube) on the right in lowercase. Add a horizontal line divider and a simple copyright text at the bottom. Make sure everything is clean and looks like a beginner typed it.
